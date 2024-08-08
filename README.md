@@ -11,8 +11,8 @@ though any bps patching tool should work. Use your unmodified SMW Rom
 as the base, and the bps patch as the patch. Tool: https://www.smwcentral.net/?p=onlinetools&tool=flips
 
 Next, obtain a Super Nintendo Entertainment System Emulator. (SNES)
-Personally, I use snes9x. I would download snes9x straight from github because
-their official website seems to have sketchy pop-up ads.
+Personally, I use snes9x. I would download snes9x straight from smwcentral because
+their official website seems to have sketchy pop-up ads. snes9x: https://www.smwcentral.net/?p=section&a=details&id=33740
 
 Once all of those steps are completed, you will be able to play
 this Rom Hack.
